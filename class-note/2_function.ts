@@ -21,5 +21,5 @@ function log(a: string, b?: string) {
   return [a, b]
 }
 
-log('hello world')
-log('hello', 'world')
+log('Hi Khan')
+log('Hi', 'Khan')
